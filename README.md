@@ -4,10 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🔐+Cybersecurity+%26+Digital+Forensics+Specialist;🤖+AI+%26+Algorithmic+Systems+Builder;🌐+Full-Stack+%26+Cloud+Architect;♟️+Chess+Engine+%7C+BLE+Mesh+Networks;🏆+National+Research+Conclave+Winner+2026;Securing+the+digital+world%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+Cybersecurity+%26+Digital+Forensics+Specialist;%F0%9F%A4%96+AI+%26+Algorithmic+Systems+Builder;%F0%9F%8C%90+Full-Stack+%26+Cloud+Architect;%E2%99%9F%EF%B8%8F+Chess+Engine+%7C+BLE+Mesh+Networks;%F0%9F%8F%86+National+Research+Conclave+Winner+2026;Securing+the+digital+world%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-raviraj.dev-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-ow5amy9fe-raviraj-sharmas-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raviraj%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviraj-sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-raviraj82891-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raviraj82891)
 [![Email](https://img.shields.io/badge/Email-raviraj82891%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raviraj82891@gmail.com)
@@ -273,6 +274,6 @@ class RavirajSharma:
 
 *"Security is not a product, but a process." — Bruce Schneier*
 
-📬 **raviraj82891@gmail.com** · 📍 **Phagwara, Punjab, India**
+📬 **raviraj82891@gmail.com** · 📍 **Phagwara, Punjab, India** · 🌐 **[Portfolio](https://portfolio-ow5amy9fe-raviraj-sharmas-projects.vercel.app/)**
 
 </div>
