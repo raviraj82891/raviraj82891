@@ -155,20 +155,57 @@ class RavirajSharma:
 
 ---
 
-### 🌱 Sustainable Development Platform
-> *Full-stack college project with a social impact focus*
+### 🎓 E-Learning Platform
+> *A full-featured online learning platform built for students*
 
-[![View Project](https://img.shields.io/badge/View%20Project-Sustainable%20Dev-22c55e?style=for-the-badge&logo=github)](https://github.com/raviraj82891/sustainable-development-)
+| Detail | Info |
+|:---|:---|
+| 🔧 **Tech Stack** | HTML, CSS, JavaScript |
+| 🎨 **Features** | Course listings, responsive UI, interactive modules |
+| 🏗️ **Focus** | Frontend architecture, UI/UX, educational tech |
+
+[![View Project](https://img.shields.io/badge/View%20Project-E--Learning-22c55e?style=for-the-badge&logo=github)](https://github.com/raviraj82891/e-learning-platform-)
 
 ---
 
 ### 💬 Interactive Chatbot
 > *API-integrated chatbot with responsive UI, deployed on Netlify*
 
-| 🔧 HTML · CSS · JavaScript · APIs | ☁️ Hosted on Netlify |
+| Detail | Info |
 |:---|:---|
+| 🔧 **Tech Stack** | HTML, CSS, JavaScript, REST APIs |
+| ☁️ **Deployed** | Netlify |
+| 🎨 **Features** | Real-time chat, responsive design, API integration |
 
 [![View Project](https://img.shields.io/badge/View%20Project-Chatbot-818cf8?style=for-the-badge&logo=github)](https://github.com/raviraj82891)
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://portfolio-ow5amy9fe-raviraj-sharmas-projects.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Click%20to%20Visit-00d4ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+```
+  ╔═══════════════════════════════════════════════════════╗
+  ║                                                       ║
+  ║   🌐  raviraj-sharma.vercel.app                       ║
+  ║                                                       ║
+  ║   → Projects  → Skills  → Certifications  → Contact  ║
+  ║                                                       ║
+  ╚═══════════════════════════════════════════════════════╝
+```
+
+**Built with passion · Secured with expertise · Deployed on Vercel**
+
+[![Visit Now](https://img.shields.io/badge/Visit%20Now-%E2%86%92-00d4ff?style=for-the-badge)](https://portfolio-ow5amy9fe-raviraj-sharmas-projects.vercel.app/)
 
 </div>
 
@@ -194,12 +231,12 @@ class RavirajSharma:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=raviraj82891&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=c9d1d9&sideNums=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=raviraj82891&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=c9d1d9&sideNums=00d4ff&dates=c9d1d9" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=raviraj82891&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj82891&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raviraj82891&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj82891&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&langs_count=8" width="38%"/>
 
 </div>
 
